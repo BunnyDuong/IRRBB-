@@ -1,6 +1,9 @@
 ## --Interest rate risk in the banking books (IRRBB) task
 
 It's a big task worked by a team of 2 members. Below is the section I worked on.
+The data was extracted from the company (6+ million rows). For security, below is the data format that show how the data look like:
+<img width="845" alt="image" src="https://github.com/user-attachments/assets/a245b77c-441a-461b-9040-89adcc97e21b" />
+
 
 The work as follow: 
 1. Merging daily data 
